@@ -1,1 +1,6 @@
 drfenv/
+tutorial/snippets/__pycache__/
+tutorial/db.sqlite3
+tutorial/snippets/migrations/__pycache__/
+tutorial/tutorial/__pycache__/
+
