@@ -4,3 +4,6 @@ tutorial/db.sqlite3
 tutorial/snippets/migrations/__pycache__/
 tutorial/tutorial/__pycache__/
 
+.vscode/settings.json
+tutorial/snippets/migrations/0001_initial.py
+tutorial/tutorial/__pycache__/settings.cpython-39.pyc
